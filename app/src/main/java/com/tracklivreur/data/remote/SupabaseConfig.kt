@@ -1,0 +1,6 @@
+package com.tracklivreur
+
+object SupabaseConfig {
+    const val SUPABASE_URL = "https://olehqivingbjhmdvyysj.supabase.co"
+    const val SUPABASE_ANON_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im9sZWhxaXZpbmdiamhtZHZ5eXNqIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzgxMDU3NjAsImV4cCI6MjA5MzY4MTc2MH0.j3IKOTpbDG3jSmHtwjTqBSW7QpAaNoiTTkpP90hNyA0"
+}
